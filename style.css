@@ -1,0 +1,22 @@
+.kotak {
+    background-color: rgba(8, 240, 112, 0.925);
+    width: 35%;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 450px;
+    margin-right: 50px;
+
+}
+
+.tabel {
+    margin-top: initial;
+    margin: auto;
+
+}
+
+.button {
+    width: 45%;
+    margin-left: 220px;
+    margin-top: 30px;
+    background-color: rgba(255, 0, 0, 0);
+}
