@@ -1,3 +1,7 @@
+body {
+    background-color: rgba(15, 247, 104, 0.267);
+}
+
 .kotak {
     background-color: rgba(8, 240, 112, 0.925);
     width: 35%;
@@ -5,6 +9,7 @@
     margin-top: 50px;
     margin-left: 450px;
     margin-right: 50px;
+    border-radius: 30px;
 
 }
 
